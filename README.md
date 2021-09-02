@@ -49,5 +49,5 @@
 </td></tr></table>  
 
 <div style="text-align: center; align-content:center;>
-<a href="https://discord.com/users/272388882539085824" style="text-align: center"><img src="https://lanyard-profile-readme.vercel.app/api/272388882539085824?theme=dark&bg=99ccff&idleMessage=probably%20touching%20grass&hideDiscrim=true&hideTimestamp=true" width="290" height="155"></a>
+<a href="https://discord.com/users/272388882539085824" style="text-align: center"><img src="https://lanyard-profile-readme.vercel.app/api/272388882539085824?theme=dark&idleMessage=probably%20touching%20grass&hideDiscrim=true&hideTimestamp=true" width="290" height="155"></a>
 </div>
