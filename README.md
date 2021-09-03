@@ -20,7 +20,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="plaid.gif" align="center" style="width: 90%" />
+<img src="plaid.gif" align="center" style="width: 100%" />
 </div>  
 </td></tr></table>
 
