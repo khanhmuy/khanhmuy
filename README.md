@@ -5,22 +5,22 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Windows Toolbox](https://github.com/WinTweakers/WindowsToolbox)  
+- 🔭 I’m currently working on nothing.
   
 
-- 🌱 I’m currently learning front-end web development, JavaScript and maybe Python
+- 🌱 I’m currently learning front-end web development, JavaScript and maybe Python.
   
 
 - ❓ Ask me about nothing :)
   
 
-- ⚡ Fun fact: most of the stuff i made are bodges
+- ⚡ Fun fact: most of the stuff i made are bodges.
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="plaid.gif" align="center" style="width: 100%" />
+<img src="plaid.gif" align="center" style="width: 105%" />
 </div>  
 </td></tr></table>
 
