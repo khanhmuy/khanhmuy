@@ -8,13 +8,13 @@
 - 🔭 I’m currently working on nothing.
   
 
-- 🌱 I’m currently learning front-end web development, JavaScript and maybe Python.
+- 🌱 I’m currently learning how to survive through school.
   
 
 - ❓ Ask me about nothing :)
   
 
-- ⚡ Fun fact: most of the stuff i made are bodges.
+- ⚡ Fun fact: all the stuff i make are bodges.
 
 
 </td><td valign="top" width="50%">
