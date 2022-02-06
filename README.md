@@ -21,7 +21,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="plaid.gif" align="center" style="width: 105%" />
+<img src="https://cdn.discordapp.com/attachments/885809091459575828/939811022720602152/Ping_2.gif" align="center" style="width: 105%" />
 </div>  
 </td></tr></table>
 
