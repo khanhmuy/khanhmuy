@@ -1,6 +1,6 @@
-# <div align="center">console.log('👋Hello, world!');</div>  
+# <div align="center">👋 hey all, it's me!</div>  
 
-### <div align="center">I'm hmuy | he/him | unprofessional unprofessional.</div>  
+### <div align="center">haii! I'm hmuy (aka alp.me on insta), a 15-year-old student and ""developer"" from Vietnam.</div>  
 
 <br/>  
 
