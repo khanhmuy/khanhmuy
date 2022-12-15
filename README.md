@@ -38,10 +38,6 @@
 
 <br/>  
 
-
-## Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=khanhmuy&show_icons=true&count_private=true&hide_border=true" align="center" width="60%" /></div>    
-
 <br>
 
 <div align="center";>
