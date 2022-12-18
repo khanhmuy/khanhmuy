@@ -1,6 +1,6 @@
 # <div align="center">👋 hey all, it's me!</div>  
 
-### <div align="center">haii! I'm hmuy (aka alp.mee), a 15-year-old student and ""developer"" from Vietnam.</div>  
+### <div align="center">haii! I'm hmuy (aka aetrnae), a 15-year-old student and ""developer"" from Vietnam.</div>  
 
 <br/>  
 
