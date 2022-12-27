@@ -1,6 +1,6 @@
 # <div align="center">👋 hey all, it's me!</div>  
 
-### <div align="center">haii! I'm hmuy (aka eternae (no no the osu! speed demon)), a 15-year-old student and ""developer"" from Vietnam.</div>  
+### <div align="center">haii! I'm hmuy (aka eternae (no not the osu! speed demon)), a 15-year-old student and ""developer"" from Vietnam.</div>  
 
 <br/>  
 
@@ -39,6 +39,11 @@
 <br/>  
 
 <br>
+
+## Stats  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=khanhmuy&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" align="center" width="60%" />
+</div>   
 
 <div align="center";>
     <a href="https://discord.com/users/272388882539085824" style="text-align: center">
