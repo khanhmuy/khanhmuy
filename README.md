@@ -47,7 +47,7 @@
 
 <div align="center";>
     <a href="https://discord.com/users/272388882539085824" style="text-align: center" target="_blank">
-        <iframe src="https://hmuy.ml/rpc-card/" title="piss" height=110></iframe>
+        <img src="https://lanyard-profile-readme.vercel.app/api/272388882539085824?theme=dark&bg=1e1e2e&idleMessage=probably%20touching%20grass&hideDiscrim=true&hideTimestamp=true" width="290" height="155">
     </a>
 </div>
 <div align="center">
