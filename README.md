@@ -1,12 +1,12 @@
 # <div align="center">👋 hey all, it's me!</div>  
 
-### <div align="center">haii! I'm hmuy (aka eternae (no not the osu! speed demon)), a 15-year-old student and ""developer"" from Vietnam.</div>  
+### <div align="center">haii! I'm hmuy, a 15-year-old student and ""developer"" from Vietnam.</div>  
 
 <br/>  
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on nothing.
+- 🔭 I’m currently working on my mental health issues.
   
 
 - 🌱 I’m currently learning how to survive through school.
@@ -15,7 +15,7 @@
 - ❓ Ask me about nothing :)
   
 
-- ⚡ Fun fact: all the stuff i make are bodges.
+- ⚡ Fun fact: all the stuff i make are bodges that barely work.
 
 
 </td><td valign="top" width="50%">
