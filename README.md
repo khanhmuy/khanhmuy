@@ -12,7 +12,7 @@ let hmuy = {
     pronouns: "he/they",
     timezone: "UTC+7 (Bangkok, Hanoi, Jakarta)",
     interests: ["programming", "gaming", "music", "anime", "manga", "photography", "motorsport"],
-    goals: "HSGQG, sysadmin, half-decent coder"
+    goals: "HSGQG, sysadmin, half-decent coder",
     email: "hmuy@hmuy.me" // will just be a foward to my gmail, hmu on social media for instant response
 
     // coding
