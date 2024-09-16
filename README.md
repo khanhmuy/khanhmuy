@@ -7,15 +7,15 @@
 ```js
 let hmuy = {
     // who am i
-    usernames: ["hmuy", "khanhmuy", "eternae"],
+    usernames: ["hmuy", "khanhmuy", "-maikah" "eternae"],
     gender: "male",
     pronouns: "he/they",
     timezone: "UTC+7 (Bangkok, Hanoi, Jakarta)",
     interests: ["programming", "gaming", "music", "anime", "manga", "photography", "motorsport"],
     goals: ["HSGQG (POG DONE I GOT IT)", "sysadmin", "half-decent coder"],
-    email: "hmuy@hmuy.me", // will just be a foward to my gmail, hmu on social media for instant response
+    email: "no", //no
 
-    // coding
+    // "coding"
     projects:  ["WindowsToolbox", "toast", "eider_hmuy", "hmuy.me"],
     favLangs:  ["Python", "JavaScript"],
     planningLangs: ["C++", "C#", "Java"] // 99% im never gonna get my ass together to learn
