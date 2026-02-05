@@ -6,19 +6,14 @@
 
 ```js
 let hmuy = {
-    // who am i
+    // whoami
     usernames: ["hmuy", "khanhmuy", "-maikah" "eternae"],
     gender: "male",
     pronouns: "he/they",
     timezone: "UTC+7 (Bangkok, Hanoi, Jakarta)",
-    interests: ["programming", "gaming", "music", "anime", "manga", "photography", "motorsport"],
-    goals: ["HSGQG (POG DONE I GOT IT)", "sysadmin", "half-decent coder"],
+    interests: ["gaming", "music", "anime", "manga", "photography", "motorsport"],
+    goals: ["make it to the next day"],
     email: "no", //no
-
-    // "coding"
-    projects:  ["WindowsToolbox", "toast", "eider_hmuy", "hmuy.me"],
-    favLangs:  ["Python", "JavaScript"],
-    planningLangs: ["C++", "C#", "Java"] // 99% im never gonna get my ass together to learn
 }
 ```
 <div align="center">
