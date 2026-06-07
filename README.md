@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="border-bottom: none;">👋 hey all, it's me!</h1>
+<h1 style="border-bottom: none;">🌸 yahoo! ^_^</h1>
 </div>
 
 ---
@@ -7,32 +7,25 @@
 ```js
 let hmuy = {
     // whoami
-    usernames: ["hmuy", "khanhmuy", "-maikah" "eternae"],
+    usernames: ["hmuy", "khanhmuy", "-maika"],
     gender: "male",
     pronouns: "he/they",
-    timezone: "UTC+7 (Bangkok, Hanoi, Jakarta)",
+    timezone: "UTC+7",
     interests: ["gaming", "music", "anime", "manga", "photography", "motorsport"],
-    goals: ["make it to the next day"],
+    goals: ["that one evangelion quote"],
     email: "no", //no
 }
 ```
 <div align="center">
+    <a style="text-decoration: none;" href="https://instagram.com/hmuy0608">
+        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Instagram&message=@hmuy0608&logo=instagram&style=for-the-badge&logoColor=white&labelColor=181825&color=fab387" />
+    </a>
     <a style="text-decoration: none;" href="https://discord.com/users/272388882539085824">
         <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Discord&message=@hmuy&logo=discord&style=for-the-badge&logoColor=white&labelColor=181825&color=b4befe" />
     </a>
-        <a style="text-decoration: none;" href="https://twitter.com/khanhhmuy">
-        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Twitter&message=@khanhhmuy&logo=twitter&style=for-the-badge&logoColor=white&labelColor=181825&color=89b4fa">
-    </a>
-    <a style="text-decoration: none;" href="https://mas.to/@hmuy0608">
-        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Mastodon&message=@hmuy0608@mas.to&logo=mastodon&style=for-the-badge&logoColor=white&labelColor=181825&color=cba6f7">
-    </a>
-    <a style="text-decoration: none;" href="https://www.youtube.com/@noteternae">
-        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Youtube&message=@noteternae&logo=youtube&style=for-the-badge&logoColor=white&labelColor=181825&color=f38ba8">
+    <a style="text-decoration: none;" href="https://anilist.co/user/hmuy0608/">
+        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=AniList&message=@hmuy0608&logo=anilist&style=for-the-badge&logoColor=white&labelColor=181825&color=89b4fa">
     </a>
 </div>
 
 ---
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khanhmuy&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&ring_color=f5c2e7&border_radius=8" style="margin-bottom: 20px;" />
-</div>
